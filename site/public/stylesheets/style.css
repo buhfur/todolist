@@ -1,16 +1,31 @@
 body {
-
+  display:grid;
+  background-color: #000029 !important;
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: rgb(29, 74, 158) !important;
 }
 
 a {
   color: #00B7FF;
 }
 
-.h2{
+.h1, .h2{
 	
 	text-align: center;
 }
 
+
+hr{
+	border-color: #f8f8ff !important;
+	width:100%;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+li{
+	font-size:20px;
+}
