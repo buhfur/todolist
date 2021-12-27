@@ -1,0 +1,6 @@
+
+-[*] convert to express js project 
+-[] give the option for me to change the website as a user that is signed in 
+-[] allow me to add new entries to the list or even headers 
+
+ 
